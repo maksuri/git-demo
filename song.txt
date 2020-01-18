@@ -4,7 +4,3 @@
 one
 two 
 three
-
-some content
-
-new
