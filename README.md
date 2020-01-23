@@ -4,5 +4,4 @@ standing strong
 on this their chosen battle field
 
 
-Form the lines
-Shield by shield
+some context
