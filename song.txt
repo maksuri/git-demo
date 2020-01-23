@@ -4,15 +4,3 @@
 one
 two 
 three
-
-my name is max
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~d
-
-
-Second couplet
-lalalalala
-lalalalala
-
-Third couplet
-lalalalala
-lalalalala
